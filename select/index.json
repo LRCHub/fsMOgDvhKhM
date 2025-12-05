@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "NON STOP",
+  "base_artist": "HANA",
+  "createdAt": "2025-12-05T12:52:24.479165Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Express Yourself - Non-Stop Express Mix",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/01_Express_Yourself_-_Non-Stop_Express_Mix_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Express Yourself (Non-Stop Express Mix)",
+      "artist": "Madonna",
+      "has_synced": true,
+      "path": "select/02_Express_Yourself_(Non-Stop_Express_Mix)_Madonna.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Non stop",
+      "artist": "Myth Syzer feat. Leto",
+      "has_synced": true,
+      "path": "select/03_Non_stop_Myth_Syzer_feat._Leto.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Non Stop (feat. Leto)",
+      "artist": "Myth Syzer, Leto",
+      "has_synced": true,
+      "path": "select/04_Non_Stop_(feat._Leto)_Myth_Syzer,_Leto.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Non Stop",
+      "artist": "Oliver Francis",
+      "has_synced": false,
+      "path": "select/05_Non_Stop_Oliver_Francis.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Non Stop",
+      "artist": "The Stranglers",
+      "has_synced": false,
+      "path": "select/06_Non_Stop_The_Stranglers.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Memorabilia - Non Stop Ecstatic Dancing Version",
+      "artist": "Soft Cell",
+      "has_synced": false,
+      "path": "select/07_Memorabilia_-_Non_Stop_Ecstatic_Dancing_Version_Soft_Cell.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sex Dwarf - Non Stop Ecstatic Dancing Version",
+      "artist": "Soft Cell",
+      "has_synced": false,
+      "path": "select/08_Sex_Dwarf_-_Non_Stop_Ecstatic_Dancing_Version_Soft_Cell.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "What! - Extended Version - Non Stop Ecstatic Dancing Edit",
+      "artist": "Soft Cell",
+      "has_synced": false,
+      "path": "select/09_What!_-_Extended_Version_-_Non_Stop_Ecstatic_Dancing_Edit_Soft_Cell.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Where Did Our Love Go? - Non Stop Ecstatic Dancing Version",
+      "artist": "Soft Cell",
+      "has_synced": false,
+      "path": "select/10_Where_Did_Our_Love_Go__-_Non_Stop_Ecstatic_Dancing_Version_Soft_Cell.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Non-Stop To Brazil",
+      "artist": "Astrud Gilberto",
+      "has_synced": true,
+      "path": "select/11_Non-Stop_To_Brazil_Astrud_Gilberto.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Boing Boom Tschak / Techno Pop / Music Non Stop (Headphone Surround 3-D Mix)",
+      "artist": "Kraftwerk",
+      "has_synced": false,
+      "path": "select/12_Boing_Boom_Tschak___Techno_Pop___Music_Non_Stop_(Headphone_Surround_3-D_Mix)_Kraftwerk.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Boing Boom Tschak \u0000 Techno Pop \u0000 Music Non Stop (Headphone Surround 3-D Mix)",
+      "artist": "Kraftwerk",
+      "has_synced": false,
+      "path": "select/13_Boing_Boom_Tschak_\u0000_Techno_Pop_\u0000_Music_Non_Stop_(Headphone_Surround_3-D_Mix)_Kraftwerk.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Musique Non Stop - 2009 Remastered Version",
+      "artist": "Kraftwerk",
+      "has_synced": true,
+      "path": "select/14_Musique_Non_Stop_-_2009_Remastered_Version_Kraftwerk.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Musique Non Stop (2009 Remastered Version)",
+      "artist": "Kraftwerk",
+      "has_synced": true,
+      "path": "select/15_Musique_Non_Stop_(2009_Remastered_Version)_Kraftwerk.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Musique Non-Stop (Live)",
+      "artist": "Kraftwerk",
+      "has_synced": true,
+      "path": "select/16_Musique_Non-Stop_(Live)_Kraftwerk.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Musique Non Stop (Live)",
+      "artist": "Kraftwerk",
+      "has_synced": true,
+      "path": "select/17_Musique_Non_Stop_(Live)_Kraftwerk.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Rock Non Stop",
+      "artist": "Cassius",
+      "has_synced": true,
+      "path": "select/18_Rock_Non_Stop_Cassius.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NON STOP",
+      "artist": "HANA",
+      "has_synced": false,
+      "path": "select/pl_01_NON_STOP_HANA.txt"
+    }
+  ]
+}
